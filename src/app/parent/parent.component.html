@@ -1,0 +1,15 @@
+<!-- <div class="container row mt-5">
+    <div class="col-md-2">
+        <button class="btn btn-success" (click)="Increment()">Incremnt</button>
+
+    </div>
+    <div class="col-md-2">
+
+        <button class="btn btn-danger" (click)="Decrement()">Decrement</button>
+    </div>
+
+</div> -->
+<div class="mt-5">
+    <h2 class="text-primary">The Count is : <span class="text-danger">{{counter}} </span> </h2>
+    </div>
+<app-child (countChanged)="counter=$event"></app-child>
