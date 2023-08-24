@@ -1,4 +1,10 @@
-# Componentcommunication
+# Componentcommunication , services and dependancy injection assignment
+
+![Screenshot 2023-08-24 112404](https://github.com/AmeyRathod05/Angular-Assignments-Services-Dependancy-Injection/assets/127238907/f1c911d3-116d-49d8-a5db-5f90676bffc0)
+
+![Screenshot 2023-08-24 112023](https://github.com/AmeyRathod05/Angular-Assignments-Services-Dependancy-Injection/assets/127238907/91d728ef-6751-4103-ba53-ca32ff24f320)
+![Screenshot 2023-08-24 111935](https://github.com/AmeyRathod05/Angular-Assignments-Services-Dependancy-Injection/assets/127238907/2598ee40-1401-4e70-a121-ea5e6eb545c6)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
